@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irfanali475
+- 👋 Hi, I’m irfanali
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Mobile Development
